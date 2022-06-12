@@ -12,4 +12,5 @@ build() {
   make
 }
 
+source /etc/profile
 init && build

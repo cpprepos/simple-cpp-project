@@ -4,5 +4,5 @@
 
 void myprint()
 {
-    std::cout<<"myprint.\n";
+    std::cout<<"hello world!!!\n";
 }
